@@ -1,0 +1,6 @@
+attr Cross-Uni: mean diff 0.0041, 95% CI [-0.0023,0.0104], t-test p=0.202, wilcoxon p=0.212, TOST(margin 0.01) p=0.0332
+lead Thr+Var - Cross: mean diff 1.0000, 95% CI [0.8302,1.1698], t-test p=8.33e-13, wilcoxon p=6.6e-07
+lead Thr+Var - Uni: mean diff 0.9667, 95% CI [0.8121,1.1212], t-test p=1.88e-13, wilcoxon p=4.7e-07
+lead Uni - Cross: mean diff 0.0333, 95% CI [-0.0861,0.1528], t-test p=0.573, wilcoxon p=0.564
+discordant 8 3 n=1230
+common subset 795 of 1230: TM 7.02 MC 3.88
